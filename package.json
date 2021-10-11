@@ -1,0 +1,26 @@
+{
+  "name": "tarafindan",
+  "version": "1.0.0",
+  "description": "simple open source license generator",
+  "main": "cli.js",
+  "scripts": {},
+  "bin": {
+    "tarafindan": "./cli.js"
+  },
+  "keywords": [
+    "license",
+    "open",
+    "source",
+    "license",
+    "license",
+    "generator",
+    "gnu",
+    "mit",
+    "gpl",
+    "community"
+  ],
+  "author": "A. Ozan Tekin",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
