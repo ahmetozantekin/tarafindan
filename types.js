@@ -10,11 +10,11 @@ const bsd           = require('./licenses/bsd');
 const wtfpl         = require('./licenses/wtfpl');
 
 function success(){
-    console.log('\nEVET TARAFINDAN...\n')
-    console.log('🥳  License file generating as LICENSE.md 🎉')
+    console.log('\n EVET TARAFINDAN...\n')
+    console.log('🥳  License file generated 🎉')
 }
 function error(){
-    console.log('💩  Something gonna wild. Try again please. 😞')
+    console.log('💩  Sorry, shit happens.')
 }
 
 module.exports.getLicense = (type, year, author) => {
