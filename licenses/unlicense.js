@@ -33,5 +33,5 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to &lt;<http://unlicense.org/>&gt;
 
 `
-    fs.writeFileSync("LICENSE.md", template);
+    fs.writeFileSync("LICENSE", template);
 }

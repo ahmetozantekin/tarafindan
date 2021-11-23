@@ -601,5 +601,5 @@ License. But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>
 
 `
-    fs.writeFileSync("LICENSE.md", template);
+    fs.writeFileSync("LICENSE", template);
 }

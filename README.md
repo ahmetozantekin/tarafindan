@@ -21,8 +21,7 @@ deadly simple.
 > tarafindan
 ```
 
-## License
+## Extras
 Halı, kilim, travel.
 
-## Extras
 ![](https://i.ibb.co/LvhX3yC/db7042610aae89638807596c407292c3.jpg)
