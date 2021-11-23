@@ -23,6 +23,7 @@ deadly simple.
 
 ## Resources
 [Open Source Initiative](https://opensource.org/licenses)
+
 [choosealicense.com](https://choosealicense.com/licenses)
 
 ## Extras
