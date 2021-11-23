@@ -4,6 +4,7 @@ const mit           = require('./licenses/mit');
 const gnu           = require('./licenses/gnu');
 const isc           = require('./licenses/isc');
 const unlicense     = require('./licenses/unlicense');
+const common     = require('./licenses/common');
 const mozilla       = require('./licenses/mozilla');
 const bsd           = require('./licenses/bsd');
 const wtfpl         = require('./licenses/wtfpl');
@@ -130,6 +131,14 @@ module.exports.getLicense = (type, year, author) => {
         case 'The Unlicense':
             try {
                 unlicense.createLicense(year, author)
+                success()
+            } catch(err){
+                error()
+            }
+            break;
+        case 'Common Development and Distribution License':
+            try {
+                common.createLicense(year, author)
                 success()
             } catch(err){
                 error()

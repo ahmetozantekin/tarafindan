@@ -34,6 +34,10 @@ const topMenu = [
         name:'The Unlicense'
     },
     {
+        key:'common',
+        name:'Common Development and Distribution License'
+    },
+    {
         key: 'WTFPL',
         name:'WTFPL (Do What The Fuck You Want To Public License)'
     }, 
