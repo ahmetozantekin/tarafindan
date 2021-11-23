@@ -1,6 +1,6 @@
 {
   "name": "tarafindan",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "simple open source license generator",
   "main": "cli.js",
   "scripts": {},
