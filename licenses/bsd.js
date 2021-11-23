@@ -5,10 +5,9 @@ module.exports.createLicense = (year, author) => {
 
 const template = `
 Modified BSD License
-====================
 
-_Copyright © ${year} ${author}
-_All rights reserved._
+Copyright © ${year} ${author}
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

@@ -5,7 +5,6 @@ module.exports.createLicense = (year, author) => {
 
 const template = `
 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
-====================
 
 1. Definitions.
 

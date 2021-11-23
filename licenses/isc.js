@@ -5,7 +5,6 @@ module.exports.createLicense = (year, author) => {
 
 const template = `
 Internet Systems Consortium license
-===================================
 
 Copyright (c) ${year} ${author}
 

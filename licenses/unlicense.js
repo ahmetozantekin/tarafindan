@@ -5,7 +5,6 @@ module.exports.createLicense = (year, author) => {
 
 const template = `
 Unlicense (Public Domain)
-============================
 
 This is free and unencumbered software released into the public domain.
 
